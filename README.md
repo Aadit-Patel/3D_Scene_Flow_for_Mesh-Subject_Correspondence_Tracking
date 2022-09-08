@@ -1,1 +1,3 @@
-# 3D_Scene_Flow_for_Mesh-Subject_Correspondence_Tracking
+# 3D Scene Flow for Mesh-Subject Correspondence Tracking
+
+In this project we have used various techniques to track human movement and then establish a correspondance between the human movement and the movement of an artificial mesh. 
